@@ -12,6 +12,6 @@ Samples from 2009 to 2014 (678 samples) are considered as test bags for which th
 
 The dataset has 50 classes (check the IFCB.test_prevalences.zip) to get a list of the observed classes.
 
-Deep features have been computed using a resnet18 finetuned in the train data (using the labels). This results in 512 features which are available for all the samples in the dataset.
+Deep features have been computed using a resnet34 finetuned in the train data (using the labels). This results in 512 features which are available for all the samples in the dataset.
 
 The label of each example is also available for all the train examples.
